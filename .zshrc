@@ -114,8 +114,8 @@ if [ -f "$LFCD" ]; then
     source "$LFCD"
 fi
 
-source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
-source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source $HOME/.config/zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+source $HOME/.config/zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source /home/vgaleksa/.config/zsh/colored_man_pages.zsh
 
 
