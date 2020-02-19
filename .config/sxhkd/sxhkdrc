@@ -1,0 +1,16 @@
+super + ctrl + l
+	slock
+XF86AudioLowerVolume
+	amixer -q set Master 5%-
+XF86AudioMute
+	amixer -q set Master toggle
+XF86AudioRaiseVolume
+	amixer -q set Master 5%+
+XF86MonBrightnessDown
+	light -U 5
+XF86MonBrightnessUp
+	light -A 5
+Print
+	maim /home/vgaleksa/Pictures/Screenshots/$(date +%d_%m_%y_%H_%M).jpg
+super + v
+	clpmnu

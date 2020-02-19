@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/vgaleksa/repositories/suckless/dwm'
+let g:netrw_dirhist_8='/home/vgaleksa/.config/nvim'
+let g:netrw_dirhist_7='/home/vgaleksa/everything/coding/openCV/py_tut'
+let g:netrw_dirhist_6='/home/vgaleksa/everything/coding/openCV'
+let g:netrw_dirhist_5='/home/vgaleksa/everything/coding/openCV/py_tut'
+let g:netrw_dirhist_4='/home/vgaleksa/everything/coding'
+let g:netrw_dirhist_3='/home/vgaleksa/everything/coding/openCV'
+let g:netrw_dirhist_2='/home/vgaleksa/everything/coding/openCV/py_tut'
+let g:netrw_dirhist_1='/'
+let g:netrw_dirhist_0='/home'
